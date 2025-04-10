@@ -21,6 +21,6 @@ setup(
     entry_points={
         'console_scripts': [
             'el22wb = ros2_project_el22wb.el22wb:main',
-        ],
+        ] 
     },
 )
